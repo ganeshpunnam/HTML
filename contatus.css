@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    width:100%;
+    background-color:white;
+   
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.talentSprint{
+    width:1200px;
+    height: 75px;
+    margin:auto;}
+    .icon{
+        width:200px;
+        float:left;
+        height:70px;
+    }
+.logo{
+    color:#ff7200;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float:left;
+    padding-top: 10px;
+}
+.menu{
+    color: rgb(240, 17, 17);
+    width:400px;
+    float: left;
+    height: 70px;
+}
+ul{
+    
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(5, 5, 5);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: 0.4ss ease-in-out;
+}
+.a{
+    color:rgb(11, 10, 10);
+}
+.b{
+    width: 100%;
+    height: 10%;
+    border: 20px;
+}
+
+
+.z{
+    font: optional;
+    color: aliceblue;
+    
+    margin-bottom: 80%;
+    margin-top: 30%;
+    margin-right: 90%;
+}
+.off{
+    
+    margin-left: 50%;
+   top: 90%;
+   color: aliceblue;
+}
+.box{
+    margin-right: 60%;
+}
+
+

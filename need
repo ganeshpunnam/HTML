@@ -1,0 +1,36 @@
+<!-- <div class="container"> -->
+                    <div class="col-sm-5 col-lg-5 padding-top">
+                        <div class="">
+                           <div class="">
+                              <h3><i class="fa fa-institution" style="font-size:22px;"></i>
+                                 TalentSprint Offices
+                              </h3> 
+                              <address>
+                                 Corporate Board-line: <a href="tel:40 6766 3535">040-67663535</a><br/>
+                                 Toll Free: <a href="tel:18001083535">18001083535</a>
+                              </address> 
+                           </div>
+                           <div class="" style="margin-top:15px;"> 
+                              <address>
+                                 <strong>India <img src="https://static.talentsprint.com/ts_drupal/talentsprint/images/ind-location.png"height="20" class="loc-img">
+                                 </strong>
+                              <br>
+                                 TalentSprint Pvt. Ltd., <br>PSR Prime Tower, <br>
+                                 Beside DLF Cyber City, Gachibowli,<br> Hyderabad - 500032
+                                 <br/>
+                                    CIN: U80902TG2008PTC062284<br/> <!--<br/>
+                                >
+                        </div>
+                     </div>
+                <!-- </div> -->    Corporate Board: <a href="tel:40 6766 3535">+91-40-6766-
+                                    3535</a><br/>
+                                    Tech Support: <a href="tel:1800 108 3535">1800 108
+                                    3535</a>-->
+                              </address> 
+                              <address>
+                                 <strong>USA <img src="https://static.talentsprint.com/ts_drupal/talentsprint/images/ca-location.png" height="20" class="loc-img"></strong><br>
+                                 TalentSprint Inc.<br>
+                                 100 S Murphy Ave Suite 200-210, <br>Sunnyvale, CA 94086,<br>
+                                 United States
+                              </address> 
+                           </div

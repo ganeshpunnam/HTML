@@ -1,0 +1,17 @@
+body{
+    background-image: url("ts-logo.png"),url(vk.gif);
+    background-repeat: no-repeat;
+    background-color: brown;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+.p1{
+    text-align: right;
+    background-color: yellow;
+    text-decoration: overline;
+    text-transform: capitalize;
+}
+h1{
+    background-color: rgb(244, 239, 239);
+}

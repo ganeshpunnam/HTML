@@ -1,0 +1,4 @@
+$(document).ready(function(){
+                $('input#login-email').attr('placeholder','Email*');
+                $('input#login-password').attr('placeholder','Password*');
+})
